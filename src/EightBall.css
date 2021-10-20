@@ -1,0 +1,21 @@
+.eight-ball {
+    margin-top: 100px;
+}
+
+.ball {
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+}
+
+#text {
+    text-align: center;
+    margin: 0 auto;
+    top: 80px;
+    color: white;
+}
